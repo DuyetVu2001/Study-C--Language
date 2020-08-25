@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1586708273 source:c:\users\ngocduyet\desktop\class8.1\main.cpp
+	<iostream>
+	<string>
+	"Person.h"
+
+1586708369 c:\users\ngocduyet\desktop\class8.1\include\person.h
+	<string>
+
+1586708199 source:c:\users\ngocduyet\desktop\class8.1\src\person.cpp
+	"Person.h"
+	<string>
+	<iostream>
+
